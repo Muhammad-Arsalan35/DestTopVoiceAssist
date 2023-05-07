@@ -1,0 +1,13 @@
+C:\Users\Shams Ur Rehman\Documents\Visual Studio 2015\Projects\DesktopVoiceAssistant\DesktopVoiceAssistant\bin\Debug\DesktopVoiceAssistant.exe.config
+C:\Users\Shams Ur Rehman\Documents\Visual Studio 2015\Projects\DesktopVoiceAssistant\DesktopVoiceAssistant\bin\Debug\DesktopVoiceAssistant.exe
+C:\Users\Shams Ur Rehman\Documents\Visual Studio 2015\Projects\DesktopVoiceAssistant\DesktopVoiceAssistant\bin\Debug\DesktopVoiceAssistant.pdb
+C:\Users\Shams Ur Rehman\Documents\Visual Studio 2015\Projects\DesktopVoiceAssistant\DesktopVoiceAssistant\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Shams Ur Rehman\Documents\Visual Studio 2015\Projects\DesktopVoiceAssistant\DesktopVoiceAssistant\obj\Debug\DesktopVoiceAssistant.csprojResolveAssemblyReference.cache
+C:\Users\Shams Ur Rehman\Documents\Visual Studio 2015\Projects\DesktopVoiceAssistant\DesktopVoiceAssistant\obj\Debug\DesktopVoiceAssistant.Form1.resources
+C:\Users\Shams Ur Rehman\Documents\Visual Studio 2015\Projects\DesktopVoiceAssistant\DesktopVoiceAssistant\obj\Debug\DesktopVoiceAssistant.Properties.Resources.resources
+C:\Users\Shams Ur Rehman\Documents\Visual Studio 2015\Projects\DesktopVoiceAssistant\DesktopVoiceAssistant\obj\Debug\DesktopVoiceAssistant.csproj.GenerateResource.Cache
+C:\Users\Shams Ur Rehman\Documents\Visual Studio 2015\Projects\DesktopVoiceAssistant\DesktopVoiceAssistant\obj\Debug\DesktopVoiceAssistant.exe
+C:\Users\Shams Ur Rehman\Documents\Visual Studio 2015\Projects\DesktopVoiceAssistant\DesktopVoiceAssistant\obj\Debug\DesktopVoiceAssistant.pdb
+C:\Users\Shams Ur Rehman\Documents\Visual Studio 2015\Projects\DesktopVoiceAssistant\DesktopVoiceAssistant\obj\Debug\DesktopVoiceAssistant.AddCommandForm.resources
+C:\Users\Shams Ur Rehman\Documents\Visual Studio 2015\Projects\DesktopVoiceAssistant\DesktopVoiceAssistant\obj\Debug\DesktopVoiceAssistant.viewCommands.resources
+C:\Users\Shams Ur Rehman\Documents\Visual Studio 2015\Projects\DesktopVoiceAssistant\DesktopVoiceAssistant\obj\Debug\DesktopVoiceAssistant.Pronunciation.resources

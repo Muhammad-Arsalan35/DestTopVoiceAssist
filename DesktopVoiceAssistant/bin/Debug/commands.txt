@@ -1,0 +1,8 @@
+open calculator
+show system information
+open Drive D
+Facebook
+Paint
+Youtube
+open my personal folder
+MS Word

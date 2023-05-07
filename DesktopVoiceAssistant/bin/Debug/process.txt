@@ -1,0 +1,8 @@
+calc
+dxdiag.exe
+D:/
+https://www.facebook.com
+mspaint
+https://www.youtube.com
+D:/local disk
+winword
